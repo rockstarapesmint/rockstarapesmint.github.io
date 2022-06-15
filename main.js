@@ -7076,8 +7076,8 @@ var account = null;
         
 
         //change these
-        let maxPublicMint = 4;
-        let maxWLMint = 2;
+        let maxPublicMint = 10;
+        let maxWLMint = 4;
         let publicPrice = 0.11;
         let wlPrice = 0.077;
 		let maxSupply = 7777;
